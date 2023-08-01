@@ -1,0 +1,33 @@
+@import './../../index.scss';
+
+.homepage {
+
+    &.mobile{
+        display: block;
+        margin-top: 0;
+    }
+    display: flex;
+    margin-top: 50px;
+    .main-content {
+        img {
+            max-width: 100%;
+        }
+    }
+    .side-content {
+        h1{
+            color:$primary;
+        }
+        color:$off-white;
+        background-color: $dark-blue;
+        padding: 1rem;
+        margin-bottom: 40px;
+    }
+
+}
+
+
+
+hr { 
+    margin: 40px 0 40px 0;
+    border: .5px solid $dark-grayish-blue;
+ }

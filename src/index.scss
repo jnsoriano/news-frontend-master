@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700;800&display=swap');
+@import "_grid";
+@import "_colors";
+
+
+body {
+  margin: 0;
+  font-family:'Inter',sans-serif;
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.container{
+  padding: 4em 8em;
+  margin-bottom: 8rem;
+}
+.mobile{
+  padding:1rem .5rem;
+}
+
+p{
+  font-size: 15px;
+  color: $dark-grayish-blue;
+}
+
+.topics {
+  margin-top: 50px;
+
+}
+
