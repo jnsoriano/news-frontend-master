@@ -2,6 +2,7 @@
   "name": "news-react-typescript",
   "version": "0.1.0",
   "private": false,
+  "homepage": "https://jnsoriano.github.io/news-frontend-master/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
@@ -25,9 +26,6 @@
     "eject": "react-scripts eject",
     "predeploy":"yarn build",
     "deploy":"gh-pages -d build",
-    "homepage": "https://jnsoriano.github.io/news-frontend-master/"
-
-
   },
   "eslintConfig": {
     "extends": [
