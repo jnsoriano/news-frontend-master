@@ -6,6 +6,10 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
 
 ### The challenge
 
+### Screenshot
+
+![](./screenshot.jpg)
+
 Users should be able to:
 
 -   View the optimal layout for the interface depending on their device's screen size
